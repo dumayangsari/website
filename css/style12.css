@@ -1,0 +1,191 @@
+
+.wrap{
+
+	margin: 0 auto;
+	margin-top: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 10px;
+	width: 1000px;
+	height: auto;
+	background-color: #411147;
+}
+
+.header{
+	height:90px;
+	background-color: #000000 ;
+	
+}
+
+.menu{
+	float: right;
+	overflow: hidden;
+	height: 70px;
+	margin-top: 8px;
+}
+
+.menu li{
+	display: inline;
+}
+
+.menu li a{
+	text-decoration: none;
+	margin: 30px 25px auto;
+	font-size: 18px;
+	color: #e8e7e7;
+}
+
+
+.logo{
+	width: 320px;
+	height: 150px;
+}
+
+.logo a img{
+	width: 290px;
+	height: 28px;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+.table tr td{
+	text-align: center;
+}
+
+.table{
+	background-color: #758a99;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+	margin: 5px 0px 5px 5px;
+}
+
+.table tr td img{
+	width: 160px;
+	height: 140px;
+	table-layout: fixed;
+	padding-right: 5px;
+	padding-left: 5px;
+	cursor: pointer;
+}
+
+.table tr td img:hover{
+	width: 200px;
+	height: 180px;
+}
+
+.content{
+	width: 1295px;
+	margin-left: 5px;
+}
+
+.content1 iframe{
+	float: left;
+	height: 30%;
+	width: 490px;
+	border-width: 5px;
+}
+
+.content2 iframe{
+	float: left;
+	height: 30%;
+	width: 490px;
+	border-width: 5px;
+}
+
+.content3 iframe{
+	float: left;
+	height: 30%;
+	width: 324px;
+	border-width: 5px;
+}
+
+.content4 iframe{
+	float: left;
+	height: 30%;
+	width: 324px;
+	border-width: 5px;
+}
+
+.content5 iframe{
+	float: left;
+	height: 30%;
+	width: 324px;
+	border-width: 5px;
+}
+
+.footer{
+	height: 30px;
+	background-color: #000000 ;
+	
+	margin: 310px 0px 5px 5px;
+	clear: both;
+	text-align: center;
+}
+
+.footer p{
+	padding-top: 5px;
+	color: #e8e7e7;
+}
+
+.footer1{
+	height: 30px;
+	background-color: #000000 ;
+	
+	margin: 30px 0px 5px 5px;
+	clear: both;
+	text-align: center;
+}
+
+.footer1 p{
+	padding-top: 5px;
+	color: #e8e7e7;
+}
+
+.pendaftaran{
+	float: center;
+	color: #e8e7e7;
+}
+
+.pendaftaran table{
+	margin-top: 20px;
+	margin-bottom: 30px;
+	float: center;
+	background-color: #5a7280;
+}
+
+.pendaftaran input{
+	padding: 4px 4px 4px 4px;
+}
+
+.pendaftaran .radio{
+	margin: 0;
+	padding: 0;
+}
+
+.pendaftaran .radio input{
+	cursor: pointer;
+	vertical-align: middle;
+}
+
+.pendaftaran .kirim{
+	text-align: center;
+}
+
+.pendaftaran .kirim button{
+
+	color: #5a7280;
+	box-sizing: 20px;
+	padding: 10px;
+	background-color: #e8e7e7;
+	cursor: pointer;
+}
+
+.pendaftaran .kirim button:hover{
+	background-color: #12a4d7;
+}
+
+.wrapkontent .kontent1:hover{
+	background-color: #12a4d7;
+}
